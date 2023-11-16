@@ -1,3 +1,4 @@
+#Program CONVERSE USD TO IDR
 import tkinter as tk
 class Converse:
     def __init__(self,root):
